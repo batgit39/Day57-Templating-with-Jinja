@@ -5,7 +5,7 @@ Challenge screenshots:
 
 ![challenge-1-url](https://github.com/batgit39/Day57-Templating-with-Jinja/assets/86790253/00726462-fbb7-407b-bce5-6dfc237fe1fb)
 
-![challenge-1-output](https://github.com/batgit39/Day57-Templating-with-Jinja/assets/86790253/bac863cb-8a44-4571-976c-f5262f142140)
+![challenge-1-output](https://github.com/batgit39/Day57-Templating-with-Jinja/assets/86790253/bac863cb-8a44-4571-976c-f5262f142140) (spoiler alert: I am not 36)
 
 Blog screenshots:
 
